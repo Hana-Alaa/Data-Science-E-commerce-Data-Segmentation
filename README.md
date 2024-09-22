@@ -40,4 +40,3 @@ The customer segmentation analysis allows businesses to tailor their marketing s
 ## Usage
 
 To run the project, ensure you have the necessary libraries installed (e.g., pandas, numpy, scikit-learn, seaborn, matplotlib). Execute the Python script to perform clustering and generate visualizations.
-"""
