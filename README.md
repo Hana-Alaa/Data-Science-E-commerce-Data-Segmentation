@@ -1,5 +1,3 @@
-# Data-Science-E-commerce-Data-Segmentation
-
 # Customer Segmentation Project
 
 ## Project Overview
